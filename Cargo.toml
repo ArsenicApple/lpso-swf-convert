@@ -1,0 +1,12 @@
+[package]
+name = "lpso-swf-convert"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+swf-parser = "0.13.0"
+swf-tree = "0.9.0"
+swf-types = "0.13.0"
+xml-rs = "0.8"
